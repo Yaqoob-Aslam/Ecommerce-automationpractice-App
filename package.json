@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce-automationpractice-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yaqoob-Aslam/Ecommerce-automationpractice-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yaqoob-Aslam/Ecommerce-automationpractice-App/issues"
+  },
+  "homepage": "https://github.com/Yaqoob-Aslam/Ecommerce-automationpractice-App#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.0"
+  }
+}
